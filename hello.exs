@@ -4,4 +4,4 @@ defmodule Hello do
   end
 end
 
-Hello.world("Joao")
+Hello.world("Joao Marco")
